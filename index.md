@@ -36,3 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Woman student operators processing data entry.
+
+Teams of student operators, most of them young women, along with scholars at Father Busa's college in Gallarate, the Aloisianum worked on a lemmatized concordance to the works of St. Thomas Aquinas, the Index Thomisticus, as well as on other projects using the method of punched-card data processing and [can be accessed](http://www.recaal.org/img/gallery_images/0613.jpg)
+
+- 6/29/1967
+- women
+- Father Busa's College
